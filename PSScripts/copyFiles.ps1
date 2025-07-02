@@ -1,0 +1,1 @@
+Copy-Item -Path "C:\Projects\df-mod2-forensic-copy\df-mod2-forensic-copy\evidence" -Destination "C:\Projects\df-mod2-forensic-copy\df-mod2-forensic-copy\duplicateEvidence" -Recurse

@@ -1,1 +1,2 @@
 # df-mod2-forensic-copy
+This project contains ps1 scripts to copy an evidence folder containing items for a forensic examination to a new folder so the originals can be kept. The scripts also contain hash verifications to ensuer the original is unchanged and the duplicate evidince is identical to the original. 
